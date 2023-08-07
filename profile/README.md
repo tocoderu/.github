@@ -3,6 +3,7 @@
 <p align="center">
   One of the most prominent school for teaching people how to code
   <br>
+  <br>
   <a href="https://tocode.ru/"><strong>Website »</strong></a>
   <br>
   <br>
